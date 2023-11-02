@@ -14,6 +14,9 @@ void solve(){
     int n;cin>>n;
     while(n--){
         cout<<n+1<<endl;
+        cout<<n+1<<endl;
+        cout<<n+1<<endl;
+        cout<<n+1<<endl;
     }
 }
 
